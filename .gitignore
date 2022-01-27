@@ -1,0 +1,6 @@
+/.idea/
+/node_modules/
+/.env
+/src/artifacts/
+/cache/
+.DS_Store
